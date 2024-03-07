@@ -328,6 +328,21 @@ body::before {
     opacity: 1;
   }
 }
+body {
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/pointer.cur"), auto;
+}
+a {
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/link.cur"), auto;
+}
+a:hover {
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/link.cur"), auto;
+}
+.hty-icon-button {
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/link.cur"), pointer;
+}
+input {
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/text.cur"), auto;
+}
 :root {
   --banner-char-bg-color: rgba(255,255,255,0.5);
   --banner-char-hover-color: #fff;
@@ -881,7 +896,7 @@ body::before {
 }
 .wordcloud #wordcloud-canvas,
 .wordcloud #wordcloud-sidebar-canvas {
-  cursor: url("$cursor-pointer"), pointer;
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/link.cur"), pointer;
 }
 .wordcloud #wordbox {
   pointer-events: none;
@@ -1927,8 +1942,8 @@ body::before {
 #site-overview-wrap {
   padding-top: 2rem;
 }
-.site-info.fix-top {
-  margin-top: -1.5rem;
+.site-info.mickey-mouse {
+  margin-top: -2.8rem;
 }
 .site-author-avatar {
   display: inline-block;
@@ -1955,6 +1970,17 @@ body::before {
   margin-top: 0;
   margin-bottom: 1rem;
   line-height: 1.5;
+}
+.site-author-status {
+  position: absolute;
+  height: 1.8rem;
+  width: 1.8rem;
+  bottom: 0;
+  right: 0;
+  line-height: 1.8rem;
+  border-radius: 50%;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  background-color: #fff;
 }
 .site-name {
   color: var(--hty-text-color);
