@@ -2067,6 +2067,26 @@ input {
 .progress-circle-container {
   position: absolute;
 }
+#waline {
+  --waline-color: var(--hty-text-color);
+  --waline-theme-color: #0078e7;
+  --waline-active-color: rgba(0,120,231,0.8);
+}
+html.dark {
+/* for waline */
+/* 布局颜色 */
+  --waline-text-color: #888;
+  --waline-bgcolor: #1e1e1e;
+  --waline-bgcolor-light: #272727;
+  --waline-border-color: #333;
+  --waline-disable-bgcolor: #444;
+  --waline-disable-color: #999;
+/* 特殊颜色 */
+  --waline-bq-color: #272727;
+/* 其他颜色 */
+  --waline-info-bgcolor: #272727;
+  --waline-info-color: #666;
+}
 #comment {
   margin: 0 1rem;
   padding: 1rem;
