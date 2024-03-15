@@ -6,17 +6,39 @@ export default defineSiteConfig({
   url: 'https://kfdzcoffee.cn/',
   author: {
     name: '咖啡豆子coffee',
-    avatar: 'https://picx.zhimg.com/v2-43b181ec643b83c617b37518e98cccee_xl.jpg?source=32738c0c',
+    avatar: 'http://kfdzcoffee-image.test.upcdn.net/Image_1700492655008crop_result.png',
   },
   /**
    * 站点图标
    */
-  favicon: 'https://picx.zhimg.com/v2-43b181ec643b83c617b37518e98cccee_xl.jpg?source=32738c0c',
+  favicon: 'http://kfdzcoffee-image.test.upcdn.net/Image_1700492655008crop_result.png',
   /**
    * 副标题
    */
   subtitle: '所有奇迹的始发点 Where All Miracles Begin.',
   description: '个人随笔',
+    /**
+   * 开启阅读统计
+   */
+    statistics: {
+      enable: true,
+      readTime: {
+        /**
+         * 阅读速度
+         */
+        speed: {
+          cn: 300,
+          en: 200,
+        },
+      },
+    },
+
+
+      // ...加密
+      encrypt: {
+        enable: true,
+      },
+
   social: [
     {
       name: 'GitHub',
