@@ -6,12 +6,12 @@ export default defineSiteConfig({
   url: 'https://kfdzcoffee.cn/',
   author: {
     name: '咖啡豆子coffee',
-    avatar: 'http://kfdzcoffee-image.test.upcdn.net/Image_1700492655008crop_result.png',
+    avatar: 'https://avatars.githubusercontent.com/u/84187695?v=4',
   },
   /**
    * 站点图标
    */
-  favicon: 'http://kfdzcoffee-image.test.upcdn.net/Image_1700492655008crop_result.png',
+  favicon: 'https://avatars.githubusercontent.com/u/84187695?v=4',
   /**
    * 副标题
    */
