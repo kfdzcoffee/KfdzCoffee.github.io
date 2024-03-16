@@ -57,7 +57,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       serverURL: 'https://comment.kfdzcoffee.cn',
       lang: 'zh-CN',
       dark: 'auto',
-      login: 'force',
+      login: 'enable',
       
     }),
   ],
