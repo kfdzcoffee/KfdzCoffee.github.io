@@ -34,6 +34,7 @@ export default defineSiteConfig({
     },
 
 
+
       // ...加密
       encrypt: {
         enable: true,
@@ -100,4 +101,5 @@ export default defineSiteConfig({
       },
     ],
   },
+  
 })
