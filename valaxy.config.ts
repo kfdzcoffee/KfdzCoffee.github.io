@@ -20,7 +20,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       enable: true,
       title: '咖啡豆子的博客',
       cloud: {
-        enable: true,
+        enable: false,
       },
     },
 
@@ -40,6 +40,8 @@ export default defineValaxyConfig<UserThemeConfig>({
 
         // or write it in site.config.ts
   },
+
+
 
   unocss: { safelist },
 
