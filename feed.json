@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "咖啡豆子的博客",
+    "home_page_url": "https://kfdzcoffee.cn/",
+    "feed_url": "https://kfdzcoffee.cn/feed.json",
+    "description": "个人随笔",
+    "icon": "https://avatars.githubusercontent.com/u/84187695?v=4",
+    "author": {
+        "name": "咖啡豆子coffee",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p>今天和朋友聊了很久有关中国动漫产业的未来，感觉有一些我的看法应与诸君分享<br>\n（以下内容均为本站之观点，若有不当之处敬请批评指正，若不符合相关规定应及时告知以删除，联系方式：contact@mail.kfdzcoffee.cn）</p>\n",
+            "url": "https://kfdzcoffee.cn/posts/Myopiniononthedevelopmentoftheanimationindustry",
+            "title": "关于动漫产业发展之我见",
+            "date_modified": "2024-03-15T22:30:00.000Z",
+            "date_published": "2024-03-17T00:24:53.809Z",
+            "author": {
+                "name": "咖啡豆子coffee",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n",
+            "url": "https://kfdzcoffee.cn/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "咖啡豆子coffee",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

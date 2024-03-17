@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kfdzcoffee.cn/</id>
+    <title>咖啡豆子的博客</title>
+    <updated>2024-03-17T00:25:36.687Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>咖啡豆子coffee</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://kfdzcoffee.cn/"/>
+    <link rel="self" href="https://kfdzcoffee.cn/atom.xml"/>
+    <subtitle>个人随笔</subtitle>
+    <logo>https://avatars.githubusercontent.com/u/84187695?v=4</logo>
+    <icon>https://kfdzcoffee.cn/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © 咖啡豆子coffee</rights>
+    <entry>
+        <title type="html"><![CDATA[关于动漫产业发展之我见]]></title>
+        <id>https://kfdzcoffee.cn/posts/Myopiniononthedevelopmentoftheanimationindustry</id>
+        <link href="https://kfdzcoffee.cn/posts/Myopiniononthedevelopmentoftheanimationindustry"/>
+        <updated>2024-03-15T22:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>今天和朋友聊了很久有关中国动漫产业的未来，感觉有一些我的看法应与诸君分享<br>
+（以下内容均为本站之观点，若有不当之处敬请批评指正，若不符合相关规定应及时告知以删除，联系方式：contact@mail.kfdzcoffee.cn）</p>
+]]></content>
+        <author>
+            <name>咖啡豆子coffee</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-17T00:24:53.809Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://kfdzcoffee.cn/posts/hello-valaxy</id>
+        <link href="https://kfdzcoffee.cn/posts/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+]]></content>
+        <author>
+            <name>咖啡豆子coffee</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+</feed>
