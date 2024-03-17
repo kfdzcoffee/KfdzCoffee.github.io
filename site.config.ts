@@ -7,7 +7,12 @@ export default defineSiteConfig({
   author: {
     name: '咖啡豆子coffee',
     avatar: 'https://avatars.githubusercontent.com/u/84187695?v=4',
+    status: {
+      emoji: "😄",
+      message: "嘿嘿嘿",
+    },
   },
+
   /**
    * 站点图标
    */

@@ -4,7 +4,8 @@ title: 关于我
 
 Hello！ 欢迎各位访问本站！！  
   
-**“所有奇迹的始发点  Where All Miracles Begin”**熟悉吧~  
+“所有奇迹的始发点  Where All Miracles Begin”  
+熟悉吧~  
 
 **~~没错，我们BA玩家就是这样的~~**  
   
