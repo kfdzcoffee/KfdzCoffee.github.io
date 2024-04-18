@@ -19,9 +19,6 @@ export default defineValaxyConfig<UserThemeConfig>({
     banner: {
       enable: true,
       title: '咖啡豆子的博客',
-      cloud: {
-        enable: false,
-      },
     },
 
     pages: [
