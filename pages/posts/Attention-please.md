@@ -33,7 +33,7 @@ end: true
   **请注意：本文之内容可能视需要而随时变更**  
 
 敬颂  
-    时祺  
+   时祺  
   
 
 
@@ -48,7 +48,7 @@ end: true
 This site is based on [Valaxy](https://github.com/YunYouJun/valaxy) Build.  
 Theme usage [valaxy theme yun](https://github.com/YunYouJun/valaxy/tree/main/packages/valaxy-theme-yun).  
   
-All content on this site, unless otherwise specified, shall comply with [CC BY-NC-SA 4.0 DEED]( https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) Protocol.  
+All content on this site, unless otherwise specified, shall comply with [CC BY-NC-SA 4.0 DEED](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) Protocol.  
   
 ### The cloud style icon at the bottom of this website points to the link declaration    
 The cloud style icon at the bottom of this website points to the creator of [valaxy](https://github.com/YunYouJun/valaxy), [Yunyoujun（云游君）](https://yunyoujun.cn)  
@@ -58,7 +58,7 @@ The cloud style icon at the bottom of this website points to the creator of [val
 ### Legal Information Statement  
 The comments you make on this website should comply with the laws and regulations of the mainland of the People's Republic of China. Otherwise, you should be held responsible for them  
     
-You can use [Email](mailto: contact@mail.kfdzcoffee.cn) to get in touch with me  
+You can use [Email](mailto:contact@mail.kfdzcoffee.cn) to get in touch with me  
 **If there are any legal consequences caused by not accessing this article, this website shall not be held responsible**  
   
 **Please note that the content of this article may change as needed**  
