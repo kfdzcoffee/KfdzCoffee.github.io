@@ -12,7 +12,7 @@ title: 关于站点
   
 您在本站所发表之言论，应当符合中华人民共和国大陆地区法律法规，否则应由您自负责任  
   
-您可以通过[邮箱](mailto:contact@mail.kfdzcoffee.cn)来与我取得联系  
+您可以通过[邮箱](mailto:contact@kfdzcoffee.cn)来与我取得联系  
   
 ### English  
 This site is based on [Valaxy](https://github.com/YunYouJun/valaxy) Build.  
@@ -22,7 +22,7 @@ All content on this site, unless otherwise specified, shall comply with [CC BY-N
   
 The comments you make on this website should comply with the laws and regulations of the mainland of the People's Republic of China. Otherwise, you should be held responsible for them.  
   
-You can contact me through [Email](mailto:contact@mail.kfdzcoffee.cn).  
+You can contact me through [Email](mailto:contact@kfdzcoffee.cn).  
   
 ## 本站编年史  
 ### 2024年  

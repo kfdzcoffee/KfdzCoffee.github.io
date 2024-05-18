@@ -72,7 +72,7 @@ export default defineSiteConfig({
     },
     {
       name: 'E-Mail',
-      link: 'mailto:contact@mail.kfdzcoffee.cn',
+      link: 'mailto:contact@kfdzcoffee.cn',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
     },

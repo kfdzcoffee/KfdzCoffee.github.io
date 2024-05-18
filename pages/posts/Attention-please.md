@@ -27,10 +27,11 @@ end: true
 ### 法律信息声明   
   您在本站所发表之言论，应当符合中华人民共和国大陆地区法律法规，否则应由您自负责任  
     
-  您可以通过[邮箱](mailto:contact@mail.kfdzcoffee.cn)来与我取得联系  
+  您可以通过[邮箱](mailto:contact@kfdzcoffee.cn)来与我取得联系  
   **若因为未访问本文所造成之法律后果，本站不承担任何责任**  
 
   **请注意：本文之内容可能视需要而随时变更**  
+  **请注意：我们可能会在本文评论区发表补充事项，补充事项与本文共同构成您需在本站遵守之内容，敬请留意并知悉**  
 
 敬颂  
    时祺  
@@ -58,9 +59,10 @@ The cloud style icon at the bottom of this website points to the creator of [val
 ### Legal Information Statement  
 The comments you make on this website should comply with the laws and regulations of the mainland of the People's Republic of China. Otherwise, you should be held responsible for them  
     
-You can use [Email](mailto:contact@mail.kfdzcoffee.cn) to get in touch with me  
+You can use [Email](mailto:contact@kfdzcoffee.cn) to get in touch with me  
 **If there are any legal consequences caused by not accessing this article, this website shall not be held responsible**  
   
 **Please note that the content of this article may change as needed**  
+**Please note that we may post supplementary information in the comments section of this article. The supplementary information, together with this article, constitutes the content that you need to comply with on this website. Please pay attention to and be aware of it**  
   
   Best regards  
