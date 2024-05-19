@@ -31,6 +31,14 @@ export default defineValaxyConfig<UserThemeConfig>({
         enable: false,
         icp: '苏ICP备17038157号',
       },
+      icon: {
+        enable: true,
+        name: 'i-ri-home-line',
+        animated: true,
+        color: '#d69b54',
+        url: 'https://kfdzcoffee.cn/',	//图标链接
+        title: '回到首页'		//鼠标悬停注释
+      },
     },
 
       // or write it in site.config.ts
