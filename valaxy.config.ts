@@ -29,7 +29,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       since: 2024,
       beian: {
         enable: false,
-        icp: '苏ICP备17038157号',
+        icp: 'XXXXXX',
       },
       icon: {
         enable: true,
@@ -40,7 +40,11 @@ export default defineValaxyConfig<UserThemeConfig>({
         title: '回到首页'		//鼠标悬停注释
       },
     },
-
+    bg_image: {
+      enable: true,
+      url: "https://image.kfdzcoffee.cn/file/c7b58c0fd9bd77f682d10.jpg",
+      dark: "https://image.kfdzcoffee.cn/file/735ef2342c9ff5feb3b2c.jpg",
+    },//背景图片
       // or write it in site.config.ts
 
         // or write it in site.config.ts

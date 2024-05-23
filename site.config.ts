@@ -106,4 +106,16 @@ export default defineSiteConfig({
       },
     ],
   },
+
+  mediumZoom: {
+    /**
+     * @zh 启用图片预览
+     */
+    enable: true,
+    /**
+     * For example: '.markdown-body img'
+     * @default '' content.value querySelectorAll('img')
+     */
+  },
+  
 })
