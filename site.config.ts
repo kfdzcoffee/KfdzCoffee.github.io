@@ -6,7 +6,7 @@ export default defineSiteConfig({
   url: 'https://kfdzcoffee.cn/',
   author: {
     name: '咖啡豆子coffee',
-    avatar: 'https://avatars.githubusercontent.com/u/84187695?v=4',
+    avatar: 'https://image.kfdzcoffee.cn/file/121add35d991efb876acc.jpg',
     status: {
       emoji: "😄",
       message: "嘿嘿嘿",
@@ -16,12 +16,12 @@ export default defineSiteConfig({
   /**
    * 站点图标
    */
-  favicon: 'https://avatars.githubusercontent.com/u/84187695?v=4',
+  favicon: 'https://image.kfdzcoffee.cn/file/121add35d991efb876acc.jpg',
   /**
    * 副标题
    */
   subtitle: '所有奇迹的始发点 Where All Miracles Begin.',
-  description: '个人随笔',
+  description: '个人博客',
     /**
    * 开启阅读统计
    */
@@ -88,19 +88,19 @@ export default defineSiteConfig({
     methods: [
       {
         name: '支付宝',
-        url: 'https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg',
+        url: 'https://image.kfdzcoffee.cn/file/121add35d991efb876acc.jpg',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: 'QQ 支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png',
+        url: 'https://image.kfdzcoffee.cn/file/121add35d991efb876acc.jpg',
         color: '#12B7F5',
         icon: 'i-ri-qq-line',
       },
       {
         name: '微信支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg',
+        url: 'https://image.kfdzcoffee.cn/file/121add35d991efb876acc.jpg',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
