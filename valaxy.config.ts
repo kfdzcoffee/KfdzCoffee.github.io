@@ -2,6 +2,7 @@ import { defineValaxyConfig } from 'valaxy'
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { addonWaline } from 'valaxy-addon-waline'
 import { addonMeting } from 'valaxy-addon-meting'
+import { addonBangumi } from 'valaxy-addon-bangumi'
 
 // add icons what you will need
 const safelist = [
@@ -23,7 +24,12 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
 
     pages: [
-
+      {
+        name: '追番列表',
+        url: '/animation/',
+        icon: 'i-ri-clipboard-line',
+        color: '#737de5',
+      },
     ],
 
     footer: {
@@ -82,6 +88,11 @@ export default defineValaxyConfig<UserThemeConfig>({
         type: 'song',
         autoplay: true,
       },
+    }),
+    addonBangumi({
+      api: 'https://animation.kfdzcoffee.cn',
+      bilibiliUid: '544250379',
+      bgmEnabled: false,
     }),
   ],
 })
