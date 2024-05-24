@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kfdzcoffee.cn/</id>
+    <title>咖啡豆子的博客</title>
+    <updated>2024-05-24T14:39:29.282Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>咖啡豆子coffee</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://kfdzcoffee.cn/"/>
+    <link rel="self" href="https://kfdzcoffee.cn/atom.xml"/>
+    <subtitle>个人博客</subtitle>
+    <logo>https://image.kfdzcoffee.cn/file/121add35d991efb876acc.jpg</logo>
+    <icon>https://kfdzcoffee.cn/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © 咖啡豆子coffee</rights>
+    <entry>
+        <title type="html"><![CDATA[访问本站须知--Notice for accessing this website--(请务必阅读以了解相关您可能不知道的信息)]]></title>
+        <id>https://kfdzcoffee.cn/posts/Attention-please</id>
+        <link href="https://kfdzcoffee.cn/posts/Attention-please"/>
+        <updated>2024-04-18T19:40:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>中文(Chinese)</h2>
+<p>尊敬的访问者：<br>
+您好！<br>
+感谢您访问本站。</p>
+]]></content>
+        <author>
+            <name>咖啡豆子coffee</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-05-24T14:39:05.406Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于动漫产业发展之我见]]></title>
+        <id>https://kfdzcoffee.cn/posts/Myopiniononthedevelopmentoftheanimationindustry</id>
+        <link href="https://kfdzcoffee.cn/posts/Myopiniononthedevelopmentoftheanimationindustry"/>
+        <updated>2024-03-15T22:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>今天和朋友聊了很久有关中国动漫产业的未来，感觉有一些我的看法应与诸君分享<br>
+（以下内容均为本站之观点，若有不当之处敬请批评指正，若不符合相关规定应及时告知以删除，联系方式：contact@kfdzcoffee.cn）</p>
+]]></content>
+        <author>
+            <name>咖啡豆子coffee</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-05-24T14:39:05.406Z</published>
+    </entry>
+</feed>

@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "咖啡豆子的博客",
+    "home_page_url": "https://kfdzcoffee.cn/",
+    "feed_url": "https://kfdzcoffee.cn/feed.json",
+    "description": "个人博客",
+    "icon": "https://image.kfdzcoffee.cn/file/121add35d991efb876acc.jpg",
+    "author": {
+        "name": "咖啡豆子coffee",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>中文(Chinese)</h2>\n<p>尊敬的访问者：<br>\n您好！<br>\n感谢您访问本站。</p>\n",
+            "url": "https://kfdzcoffee.cn/posts/Attention-please",
+            "title": "访问本站须知--Notice for accessing this website--(请务必阅读以了解相关您可能不知道的信息)",
+            "date_modified": "2024-04-18T19:40:00.000Z",
+            "date_published": "2024-05-24T14:39:05.406Z",
+            "author": {
+                "name": "咖啡豆子coffee",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>今天和朋友聊了很久有关中国动漫产业的未来，感觉有一些我的看法应与诸君分享<br>\n（以下内容均为本站之观点，若有不当之处敬请批评指正，若不符合相关规定应及时告知以删除，联系方式：contact@kfdzcoffee.cn）</p>\n",
+            "url": "https://kfdzcoffee.cn/posts/Myopiniononthedevelopmentoftheanimationindustry",
+            "title": "关于动漫产业发展之我见",
+            "date_modified": "2024-03-15T22:30:00.000Z",
+            "date_published": "2024-05-24T14:39:05.406Z",
+            "author": {
+                "name": "咖啡豆子coffee",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

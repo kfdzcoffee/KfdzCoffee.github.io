@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>咖啡豆子的博客</title>
+        <link>https://kfdzcoffee.cn/</link>
+        <description>个人博客</description>
+        <lastBuildDate>Fri, 24 May 2024 14:39:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>咖啡豆子的博客</title>
+            <url>https://image.kfdzcoffee.cn/file/121add35d991efb876acc.jpg</url>
+            <link>https://kfdzcoffee.cn/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © 咖啡豆子coffee</copyright>
+        <atom:link href="https://kfdzcoffee.cn/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[访问本站须知--Notice for accessing this website--(请务必阅读以了解相关您可能不知道的信息)]]></title>
+            <link>https://kfdzcoffee.cn/posts/Attention-please</link>
+            <guid>https://kfdzcoffee.cn/posts/Attention-please</guid>
+            <pubDate>Fri, 24 May 2024 14:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>中文(Chinese)</h2>
+<p>尊敬的访问者：<br>
+您好！<br>
+感谢您访问本站。</p>
+]]></content:encoded>
+            <author>i@valaxy.site (咖啡豆子coffee)</author>
+        </item>
+        <item>
+            <title><![CDATA[关于动漫产业发展之我见]]></title>
+            <link>https://kfdzcoffee.cn/posts/Myopiniononthedevelopmentoftheanimationindustry</link>
+            <guid>https://kfdzcoffee.cn/posts/Myopiniononthedevelopmentoftheanimationindustry</guid>
+            <pubDate>Fri, 24 May 2024 14:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p>今天和朋友聊了很久有关中国动漫产业的未来，感觉有一些我的看法应与诸君分享<br>
+（以下内容均为本站之观点，若有不当之处敬请批评指正，若不符合相关规定应及时告知以删除，联系方式：contact@kfdzcoffee.cn）</p>
+]]></content:encoded>
+            <author>i@valaxy.site (咖啡豆子coffee)</author>
+        </item>
+    </channel>
+</rss>
