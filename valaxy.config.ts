@@ -1,6 +1,7 @@
 import { defineValaxyConfig } from 'valaxy'
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { addonWaline } from 'valaxy-addon-waline'
+import { addonMeting } from 'valaxy-addon-meting'
 
 // add icons what you will need
 const safelist = [
@@ -44,6 +45,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       enable: true,
       url: "https://image.kfdzcoffee.cn/file/c7b58c0fd9bd77f682d10.jpg",
       dark: "https://image.kfdzcoffee.cn/file/735ef2342c9ff5feb3b2c.jpg",
+      opacity: 1
     },//背景图片
       // or write it in site.config.ts
 
@@ -70,6 +72,16 @@ export default defineValaxyConfig<UserThemeConfig>({
       dark: 'auto',
       login: 'enable',
       
+    }),
+    addonMeting({
+      global: true,
+      /** @see https://github.com/metowolf/MetingJS */
+      props: {
+        id: '1848243530',
+        server: 'netease',
+        type: 'song',
+        autoplay: true,
+      },
     }),
   ],
 })

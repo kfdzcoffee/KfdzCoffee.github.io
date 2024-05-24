@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "valaxy": "0.18.5",
+    "valaxy-addon-meting": "^0.1.2",
     "valaxy-addon-waline": "^0.1.2",
     "valaxy-theme-yun": "0.18.5"
   },
